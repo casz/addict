@@ -1,4 +1,4 @@
-const AD = require('ad');
+const AD = require('@casz/ad');
 const express = require('express');
 const bodyParser = require('body-parser');
 const swagpi = require('swagpi');
