@@ -1,5 +1,5 @@
 {
-  "name": "addict",
+  "name": "@casz/addict",
   "version": "1.1.1",
   "description": "Get a full Active Directory REST API in 30 seconds",
   "main": "index.js",
@@ -37,5 +37,13 @@
   },
   "scripts": {
     "precommit": "lint-staged"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casz/addict.git"
+  },
+  "bugs": {
+    "url": "https://github.com/casz/addict/issues"
+  },
+  "homepage": "https://github.com/casz/addict#readme"
 }
