@@ -1,6 +1,6 @@
 {
   "name": "@casz/addict",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Get a full Active Directory REST API in 30 seconds",
   "main": "index.js",
   "keywords": [
